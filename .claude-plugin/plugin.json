@@ -4,21 +4,19 @@
   "version": "2.1.0",
   "description": "Build applications with the Gemini API and SDKs using modern best practices, canonical docs, and current models.",
   "author": {
-    "name": "Google"
+    "name":
   },
-  "skills": "./skills",
+  "skills": "
   "mcpServers": {
-    "gemini-api-docs": {
+    "gemini-api-docs": 
       "url": "https://gemini-api-docs-mcp.dev"
     }
   },
-  "repository": "https://github.com/google-gemini/gemini-skills",
-  "license": "Apache-2.0",
+  "repository":
   "keywords": [
     "gemini",
     "gemini-api",
-    "google-genai",
-    "skills",
+    
     "ai"
   ]
 }
